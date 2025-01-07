@@ -6,11 +6,11 @@
 /*   By: gcarrico <gcarrico@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/05/14 13:14:19 by gcarrico          #+#    #+#             */
-/*   Updated: 2024/12/11 16:01:40 by gcarrico         ###   ########.fr       */
+/*   Updated: 2024/12/27 17:20:06 by gcarrico         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "../inc/ft_printf.h"
+#include "../libft/inc/ft_printf.h"
 
 int	ft_putchar(char c)
 {
